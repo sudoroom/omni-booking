@@ -29,7 +29,7 @@ To see the current booking system and calendar, follow the following links:
 * Commons Working Group members can log into the backend and review requests. If an event proposal is accepted, the following occurs:
 1. The event is posted to the Omni calendar under the category "Others' Events"
 2. The event organizer receives an email requesting they follow a link to another wizard that guides them through e-signing a contract, payment, deposit requirements (if any), insurance requirements (if any), and access to change the event title and description on the calendar
-* Event Contract (short for simple events): 
-* Event Contract (long for events with >50 attendees, loud music, and/or presence of alcohol): 
+* Event Contract (short for simple events): https://omnicommons.org/cloud/index.php/s/ADLrv1BcyR65AfN
+* Event Contract (long for events with >50 attendees, loud music, and/or presence of alcohol): https://omnicommons.org/cloud/index.php/s/6nQMDIAPmK5st08
 * Invoice & Payment: Can be integrated with either Stripe or Quickbooks (both of which do invoicing. Quickbooks is what's being used currently. It would be nice to have Quickbooks set up on Omni's server)
 * Insurance Requirements: Can use this flowchart to determine what kind of insurance is needed: https://drive.google.com/file/d/0ByjR12L1MEjCRXhiMU04aFN6OXc/view
